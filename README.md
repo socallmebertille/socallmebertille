@@ -1,4 +1,7 @@
-# Welcome here ☀️ Let's get to know each other !
+<h1>
+  <p align="center">Welcome here ☀️</p>
+  <p align="center">Let's get to know each other !</p>
+</h1>
 
 ## Contact
 
