@@ -1,7 +1,5 @@
 # Welcome here ☀ Let's code together !
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=notmanyideasdev&label=Profile%20Visits%20%F0%9F%91%80&color=32d926&style=flat-square" alt="socallmebertille" /> </p>
-
 ## If you want to contact me
 
 | Where  | How  |
