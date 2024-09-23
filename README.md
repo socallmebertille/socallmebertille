@@ -1,4 +1,4 @@
-# Welcome here ☀️ Let's code together !
+# Welcome here ☀️ Let's get to know each other !
 
 ## If you want to contact me
 
