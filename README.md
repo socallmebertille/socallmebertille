@@ -8,6 +8,7 @@
 | Where  | How  |
 | --- | --- |
 | <p align="center"> <img src="https://skillicons.dev/icons?i=gmail" /></p> | sarah.bejard@gmail.com |
+| <p align="center"> <img src="https://skillicons.dev/icons?i=linkedin" /></p> | [Sarah Berton](www.linkedin.com/in/sarah-berton-2760b9330)|
 
 ## My actual situation
 
