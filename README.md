@@ -60,45 +60,59 @@
   </a>
 </p>
 
-## 📊 Statistiques GitHub
+## 🎨 Demonstration projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=socallmebertille&show_icons=true&theme=radical" alt="Statistiques GitHub de Sarah">
+  <img src="img/so_long_bonus.gif" alt="So_Long Demo" width="400">
+<!--   <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400"> -->
 </p>
 
-## 🎨 Projets en images
+## 🎓 My actual situation  
+
+<div>
+  <div >
+    <img src="https://img.shields.io/badge/-Student%20at%2042%20Paris%20School-3498db?style=for-the-badge&logo=42&logoColor=white" height="25"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" width="200" height="25"/>
+  </div>
+</div>
+<div>
+  <div>
+    <img src="https://img.shields.io/badge/-Have%20learned-f39c12?style=for-the-badge&logo=c&logoColor=white" height="25"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=c" width="50" height="25"/>
+  </div>
+</div>
+<div>
+  <div >
+    <img src="https://img.shields.io/badge/-Currently%20learning-3498db?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=cpp" width="50" height="25"/>
+  </div>
+</div>
+
+## 🎓 My Background at Bordeaux's University
+
+<div>
+  <div>
+    <img src="https://img.shields.io/badge/-2D%20Game%20Dev%20&%20Web%20Development-f39c12?style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=atom,js,html,css" alt="Web Technologies" width="200" height="25"/>
+  </div>
+</div>
+<div>
+  <div >
+    <img src="https://img.shields.io/badge/-Algorithms-3498db?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="25"/>
+  </div>
+</div>
+
+## 📊 GitHub statistics
 
 <p align="center">
-  <img src="images/projet1.gif" alt="Aperçu du Projet 1" width="400">
-  <img src="images/projet2.png" alt="Aperçu du Projet 2" width="400">
+  <img src="https://github-readme-stats.vercel.app/api?username=socallmebertille&show_icons=true&theme=radical" alt="Statistiques GitHub de Sarah" height="180em">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socallmebertille&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em">
 </p>
 
-
-## My actual situation
-
-| Situation | Software |
-| --- | --- |
-| student at the school 42 Paris | <p align="center"><img src="https://skillicons.dev/icons?i=git,github,vim,vscode" /></p> |
-| learning the C language | <p align="center"><img src="https://skillicons.dev/icons?i=c" /></p> |
-
-## My background at Bordeaux's University
-
-| Basics in | Software |
-| --- | --- |
-| algorithms | <p align="center"><img src="https://skillicons.dev/icons?i=python" /></p> |
-| 2D game using pixels & web site | <p align="center"><img src="https://skillicons.dev/icons?i=atom,js,html,css" /></p> |
-
-<!--
-**socallmebertille/socallmebertille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
