@@ -1,3 +1,7 @@
+<!-- <p align="center"> -->
+<!--   <img src="img/github_profile.gif" alt="So_Long Demo" width="400"> -->
+<!-- </p> -->
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+☀️;Let's+get+to+know+each+other"/>
 </p>
