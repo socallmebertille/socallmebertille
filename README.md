@@ -28,6 +28,18 @@
   <a href="https://github.com/socallmebertille/42-Libft">
     <img src="https://img.shields.io/badge/Libft-000000?style=for-the-badge&logo=42&logoColor=white" alt="Libft">
   </a>
+  </a>
+  <a href="https://github.com/socallmebertille/42-Ft_printf">
+    <img src="https://img.shields.io/badge/Ft_printf-000000?style=for-the-badge&logo=42&logoColor=white" alt="Ft_printf">
+  </a>
+  </a>
+  <a href="https://github.com/socallmebertille/42-Get_Next_Line">
+    <img src="https://img.shields.io/badge/Get_Next_Line-000000?style=for-the-badge&logo=42&logoColor=white" alt="Get_Next_Line">
+  </a>
+  </a>
+  <a href="https://github.com/socallmebertille/42-Born2beroot">
+    <img src="https://img.shields.io/badge/Born2beroot-000000?style=for-the-badge&logo=42&logoColor=white" alt="Born2beroot">
+  </a>
   <a href="https://github.com/socallmebertille/42-Push_swap">
     <img src="https://img.shields.io/badge/Push_swap-000000?style=for-the-badge&logo=42&logoColor=white" alt="Push_swap">
   </a>
@@ -42,6 +54,9 @@
   </a>
   <a href="https://github.com/socallmebertille/42-Minishell">
     <img src="https://img.shields.io/badge/Minishell-000000?style=for-the-badge&logo=42&logoColor=white" alt="Minishell">
+  </a>
+  <a href="https://github.com/socallmebertille/42-Net_Practice">
+    <img src="https://img.shields.io/badge/Net_Practice-000000?style=for-the-badge&logo=42&logoColor=white" alt="Net_Practice">
   </a>
   <a href="https://github.com/socallmebertille/42-Cub3d">
     <img src="https://img.shields.io/badge/Cub3d-000000?style=for-the-badge&logo=42&logoColor=white" alt="Cub3d">
