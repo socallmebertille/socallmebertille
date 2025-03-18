@@ -1,13 +1,9 @@
 <!-- <p align="center"> -->
-<!--   <img src="img/github_profile.gif" alt="So_Long Demo" width="400"> -->
+<!--   <img src="img/Github_profile.gif" alt="So_Long Demo" width="1000"> -->
 <!-- </p> -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+☀️;Let's+get+to+know+each+other"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=24&duration=1000&pause=2500&color=FAFF84&center=true&vCenter=true&width=600&lines=Student+at+42+Paris;Passionate+about+IT+development"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+☀️"/>
 </p>
 
 ---
