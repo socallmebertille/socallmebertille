@@ -25,31 +25,24 @@
   <a href="https://github.com/socallmebertille/42-Piscine_reloaded">
     <img src="https://img.shields.io/badge/Piscine%20Reloaded-000000?style=for-the-badge&logo=42&logoColor=white" alt="Piscine Reloaded">
   </a>
-<!-- <br> -->
   <a href="https://github.com/socallmebertille/42-Libft">
     <img src="https://img.shields.io/badge/Libft-000000?style=for-the-badge&logo=42&logoColor=white" alt="Libft">
   </a>
-<!-- <br> -->
   <a href="https://github.com/socallmebertille/42-Push_swap">
     <img src="https://img.shields.io/badge/Push_swap-000000?style=for-the-badge&logo=42&logoColor=white" alt="Push_swap">
   </a>
-<!-- <br> -->
   <a href="https://github.com/socallmebertille/42-Pipex">
     <img src="https://img.shields.io/badge/Pipex-000000?style=for-the-badge&logo=42&logoColor=white" alt="Pipex">
   </a>
-<!-- <br> -->
   <a href="https://github.com/socallmebertille/42-So_Long">
     <img src="https://img.shields.io/badge/So_Long-000000?style=for-the-badge&logo=42&logoColor=white" alt="So_Long">
   </a>
-<!-- <br> -->
   <a href="https://github.com/socallmebertille/42-Philosophers">
     <img src="https://img.shields.io/badge/Philosophers-000000?style=for-the-badge&logo=42&logoColor=white" alt="Philosophers">
   </a>
-<!-- <br> -->
   <a href="https://github.com/socallmebertille/42-Minishell">
     <img src="https://img.shields.io/badge/Minishell-000000?style=for-the-badge&logo=42&logoColor=white" alt="Minishell">
   </a>
-<!-- <br> -->
   <a href="https://github.com/socallmebertille/42-Cub3d">
     <img src="https://img.shields.io/badge/Cub3d-000000?style=for-the-badge&logo=42&logoColor=white" alt="Cub3d">
   </a>
@@ -74,8 +67,20 @@
 </p>
 
 <p align="center">
+  <a href="https://youtu.be/XLiG6d9VJvI?si=CMYbCpsLkb29LYys">
+    <img src="https://img.shields.io/badge/Watch_my_So_Long_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my So_Long on YouTube">
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/F2-tP8NMRDc?si=Schpeiqpf7ek2NFS">
+    <img src="https://img.shields.io/badge/Watch_my_Cub3d_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my Cub3d on YouTube">
+  </a>
+</p>
+
+
+<p align="center">
   <img src="img/so_long_bonus.gif" alt="So_Long Demo" width="400">
-<!--   <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400"> -->
+  &nbsp;
+  <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400">
 </p>
 
 ---
