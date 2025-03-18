@@ -129,8 +129,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=socallmebertille&show_icons=true&theme=radical" alt="Statistiques GitHub de Sarah" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api?username=socallmebertille&show_icons=true&theme=cobalt2" alt="Statistiques GitHub de Sarah" height="180em">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socallmebertille&theme=radical&layout=compact" alt="Langues les plus utilisées" height="180em">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socallmebertille&theme=cobalt2&layout=compact" alt="Langues les plus utilisées" height="180em">
 </p>
 
