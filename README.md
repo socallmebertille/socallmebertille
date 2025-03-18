@@ -70,8 +70,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/socallmebertille/42-CPP0">
-    <img src="https://img.shields.io/badge/CPP0-000000?style=for-the-badge&logo=42&logoColor=white" alt="CPP0">
+  <a href="https://github.com/socallmebertille/42-Modules_CPP">
+    <img src="https://img.shields.io/badge/Modules_CPP-000000?style=for-the-badge&logo=42&logoColor=white" alt="Modules_CPP">
   </a>
 </p>
 
