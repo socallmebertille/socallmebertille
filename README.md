@@ -70,42 +70,32 @@
 ## 🎓 My actual situation  
 
 <div>
-  <div >
-    <img src="https://img.shields.io/badge/-Student%20at%2042%20Paris%20School-3498db?style=for-the-badge&logo=42&logoColor=white" height="25"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" width="200" height="25"/>
-  </div>
+  <img src="https://img.shields.io/badge/-Student%20at%2042%20Paris%20School-3498db?style=for-the-badge&logo=42&logoColor=white" height="25"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" width="200" height="25"/>
 </div>
 <div>
-  <div>
-    <img src="https://img.shields.io/badge/-Have%20learned-f39c12?style=for-the-badge&logo=c&logoColor=white" height="25"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=c" width="50" height="25"/>
-  </div>
+  <img src="https://img.shields.io/badge/-Have%20learned-f39c12?style=for-the-badge&logo=c&logoColor=white" height="25"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=c" width="50" height="25"/>
 </div>
-<div>
-  <div >
-    <img src="https://img.shields.io/badge/-Currently%20learning-3498db?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=cpp" width="50" height="25"/>
-  </div>
+<div >
+  <img src="https://img.shields.io/badge/-Currently%20learning-3498db?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="25"/>
 </div>
 
 ## 🎓 My Background at Bordeaux's University
 
 <div>
-  <div>
-    <img src="https://img.shields.io/badge/-2D%20Game%20Dev%20&%20Web%20Development-f39c12?style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=atom,js,html,css" alt="Web Technologies" width="200" height="25"/>
-  </div>
+  <img src="https://img.shields.io/badge/-2D%20Game%20Dev%20&%20Web%20Development-f39c12?style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=atom,js,html,css" alt="Web Technologies" width="200" height="25"/>
 </div>
-<div>
-  <div >
-    <img src="https://img.shields.io/badge/-Algorithms-3498db?style=for-the-badge&logo=python&logoColor=white" height="25"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="25"/>
-  </div>
+<div >
+  <img src="https://img.shields.io/badge/-Algorithms-3498db?style=for-the-badge&logo=python&logoColor=white" height="25"/>
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="25"/>
 </div>
 
 ## 📊 GitHub statistics
