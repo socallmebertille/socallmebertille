@@ -1,22 +1,25 @@
-<h1>
-  <p align="center">Welcome here ☀️</p>
-  <p align="center">Let's get to know each other !</p>
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=38C2FF&center=true&vCenter=true&width=600&lines=Bienvenue+sur+mon+profil+GitHub+!;Étudiante+à+l'école+42+Paris;Passionnée+par+le+développement;Explorons+le+monde+du+code+ensemble!">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+☀️;Let's+get+to+know+each+other"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=FAFF84&center=true&vCenter=true&width=600&lines=Welcome+on+my+GitHub+profile+!;Étudiante+à+l'école+42+Paris;Passionnée+par+le+développement;Explorons+le+monde+du+code+ensemble!">
+  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=24&duration=1000&pause=2500&color=FAFF84&center=true&vCenter=true&width=600&lines=Student+at+42+Paris;Passionate+about+IT+development"/>
 </p>
 
-## 📫 Contact me
+---
 
-[![Gmail Badge](https://img.shields.io/badge/-sarah.bejard@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah.bejard@gmail.com)
-[![LinkedIn Badge](https://img.shields.io/badge/-Sarah%20Berton-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarah-berton-2760b9330)
+<p>
+  <img src="https://img.shields.io/badge/Contact%20me-000000?style=for-the-badge&logo=googlemessages&logoColor=3498db" height="55"/>
+</p>
 
-## 🚀 My C projects
+[![LinkedIn Badge](https://img.shields.io/badge/-Sarah%20Berton-3498DB?style=for-the-badge&logo=logmein&logoColor=white)](https://www.linkedin.com/in/sarah-berton-2760b9330)
+[![Gmail Badge](https://img.shields.io/badge/-sarah.bejard@gmail.com-F39C12?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarah.bejard@gmail.com)
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=c&logoColor=3498db" height="55"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/socallmebertille/42-Piscine_reloaded">
@@ -52,7 +55,11 @@
   </a>
 </p>
 
-## 🚀 My C++ projects
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=cplusplus&logoColor=3498db" height="55"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/socallmebertille/42-CPP0">
@@ -60,14 +67,22 @@
   </a>
 </p>
 
-## 🎨 Demonstration projects
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Demonstration%20projects-000000?style=for-the-badge&logo=youtube&logoColor=3498db" height="55"/>
+</p>
 
 <p align="center">
   <img src="img/so_long_bonus.gif" alt="So_Long Demo" width="400">
 <!--   <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400"> -->
 </p>
 
-## 🎓 My actual situation  
+---
+
+<p>
+  <img src="https://img.shields.io/badge/My%20actual%20situation-000000?style=for-the-badge&logo=gitbook&logoColor=3498db" height="55"/>
+</p>
 
 <div>
   <img src="https://img.shields.io/badge/-Student%20at%2042%20Paris%20School-3498db?style=for-the-badge&logo=42&logoColor=white" height="25"/>
@@ -85,7 +100,11 @@
   <img src="https://skillicons.dev/icons?i=cpp" width="50" height="25"/>
 </div>
 
-## 🎓 My Background at Bordeaux's University
+---
+
+<p>
+  <img src="https://img.shields.io/badge/My%20Background%20at%20Bordeaux's%20University-000000?style=for-the-badge&logo=gitbook&logoColor=3498db" height="55"/>
+</p>
 
 <div>
   <img src="https://img.shields.io/badge/-2D%20Game%20Dev%20&%20Web%20Development-f39c12?style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
@@ -98,7 +117,11 @@
   <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="25"/>
 </div>
 
-## 📊 GitHub statistics
+---
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20statistics-000000?style=for-the-badge&logo=alwaysdata&logoColor=3498db" height="55"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=socallmebertille&show_icons=true&theme=radical" alt="Statistiques GitHub de Sarah" height="180em">
