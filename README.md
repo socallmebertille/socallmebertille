@@ -1,10 +1,8 @@
 <!-- <p align="center"> -->
 <!--   <img src="img/Github_profile.gif" alt="So_Long Demo" width="1000"> -->
 <!-- </p> -->
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Libre+Baskerville&size=30&duration=1000&pause=2500&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+☀️"/>
-</p>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Baskerville&weight=500&duration=1000&pause=2500&color=FFFFFF&center=false&width=435&lines=Welcome+to+my+GitHub+Profile+%E2%98%80%EF%B8%8F)](https://git.io/typing-svg)
 
 ---
 
