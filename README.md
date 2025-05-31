@@ -100,31 +100,6 @@
   </tr>
 </table>
 
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=cplusplus&logoColor=3498db" height="55"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/socallmebertille/42-Modules_CPP">
-    <img src="https://img.shields.io/badge/Modules_CPP-000000?style=for-the-badge&logo=42&logoColor=white" alt="Modules_CPP">
-  </a>
-</p>
-
----
-
-<p>
-  <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=docker&logoColor=3498db" height="55"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/socallmebertille/42-Inception">
-    <img src="https://img.shields.io/badge/Inception-000000?style=for-the-badge&logo=42&logoColor=white" alt="Modules_CPP">
-  </a>
-</p>
-
 ---
 
 <p>
@@ -154,21 +129,44 @@
   <img src="https://img.shields.io/badge/My%20actual%20situation-000000?style=for-the-badge&logo=gitbook&logoColor=3498db" height="55"/>
 </p>
 
-<div>
-  <img src="https://img.shields.io/badge/-Student%20at%2042%20Paris%20School-3498db?style=for-the-badge&logo=42&logoColor=white" height="25"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" width="200" height="25"/>
-</div>
-<div>
-  <img src="https://img.shields.io/badge/-Have%20learned-f39c12?style=for-the-badge&logo=c&logoColor=white" height="25"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=c" width="50" height="25"/>
-</div>
-<div >
-  <img src="https://img.shields.io/badge/-Currently%20learning-3498db?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" width="50" height="25"/>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <p align="left">
+        <img src="https://img.shields.io/badge/-Student%20at%2042%20Paris%20School-3498db?style=for-the-badge&logo=42&logoColor=white" height="25"/>
+      </p>
+    </td>
+    <td align="right" width="50%">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=git,github,vim,vscode" width="200" height="25"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <p align="left">
+        <img src="https://img.shields.io/badge/-Have%20learned-f39c12?style=for-the-badge&logo=c&logoColor=white" height="25"/>
+      </p>
+    </td>
+    <td align="right" width="50%">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=c" width="50" height="25"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <p align="left">
+        <img src="https://img.shields.io/badge/-Currently%20learning-3498db?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
+      </p>
+    </td>
+    <td align="right" width="50%">
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=cpp" width="50" height="25"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -176,16 +174,24 @@
   <img src="https://img.shields.io/badge/My%20Background%20at%20Bordeaux's%20University-000000?style=for-the-badge&logo=gitbook&logoColor=3498db" height="55"/>
 </p>
 
-<div>
-  <img src="https://img.shields.io/badge/-2D%20Game%20Dev%20&%20Web%20Development-f39c12?style=for-the-badge&logo=javascript&logoColor=white" height="25"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=atom,js,html,css" alt="Web Technologies" width="200" height="25"/>
-</div>
-<div >
-  <img src="https://img.shields.io/badge/-Algorithms-3498db?style=for-the-badge&logo=python&logoColor=white" height="25"/>
-  &nbsp;
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="25"/>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left" width="50%">
+      <p align="left"><img src="https://img.shields.io/badge/-2D%20Game%20Dev%20&%20Web%20Development-f39c12?style=for-the-badge&logo=javascript&logoColor=white" height="25"/></p>
+    </td>
+    <td align="right" width="50%">
+      <p align="center"><img src="https://skillicons.dev/icons?i=atom,js,html,css" alt="Web Technologies" width="200" height="25"/></p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="50%">
+      <p align="left"><img src="https://img.shields.io/badge/-Algorithms-3498db?style=for-the-badge&logo=python&logoColor=white" height="25"/></p>
+    </td>
+    <td align="right" width="50%">
+      <p align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="25"/></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
