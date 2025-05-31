@@ -16,50 +16,90 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logo=c&logoColor=3498db" height="55"/>
+  <img src="https://img.shields.io/badge/Projects-000000?style=for-the-badge&logoColor=3498db" height="55"/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/socallmebertille/42-Piscine_reloaded">
-    <img src="https://img.shields.io/badge/Piscine%20Reloaded-000000?style=for-the-badge&logo=42&logoColor=white" alt="Piscine Reloaded">
-  </a>
-  <a href="https://github.com/socallmebertille/42-Libft">
-    <img src="https://img.shields.io/badge/Libft-000000?style=for-the-badge&logo=42&logoColor=white" alt="Libft">
-  </a>
-  </a>
-  <a href="https://github.com/socallmebertille/42-Ft_printf">
-    <img src="https://img.shields.io/badge/Ft_printf-000000?style=for-the-badge&logo=42&logoColor=white" alt="Ft_printf">
-  </a>
-  </a>
-  <a href="https://github.com/socallmebertille/42-Get_Next_Line">
-    <img src="https://img.shields.io/badge/Get_Next_Line-000000?style=for-the-badge&logo=42&logoColor=white" alt="Get_Next_Line">
-  </a>
-  </a>
-  <a href="https://github.com/socallmebertille/42-Born2beroot">
-    <img src="https://img.shields.io/badge/Born2beroot-000000?style=for-the-badge&logo=42&logoColor=white" alt="Born2beroot">
-  </a>
-  <a href="https://github.com/socallmebertille/42-Push_swap">
-    <img src="https://img.shields.io/badge/Push_swap-000000?style=for-the-badge&logo=42&logoColor=white" alt="Push_swap">
-  </a>
-  <a href="https://github.com/socallmebertille/42-Pipex">
-    <img src="https://img.shields.io/badge/Pipex-000000?style=for-the-badge&logo=42&logoColor=white" alt="Pipex">
-  </a>
-  <a href="https://github.com/socallmebertille/42-So_Long">
-    <img src="https://img.shields.io/badge/So_Long-000000?style=for-the-badge&logo=42&logoColor=white" alt="So_Long">
-  </a>
-  <a href="https://github.com/socallmebertille/42-Philosophers">
-    <img src="https://img.shields.io/badge/Philosophers-000000?style=for-the-badge&logo=42&logoColor=white" alt="Philosophers">
-  </a>
-  <a href="https://github.com/socallmebertille/42-Minishell">
-    <img src="https://img.shields.io/badge/Minishell-000000?style=for-the-badge&logo=42&logoColor=white" alt="Minishell">
-  </a>
-  <a href="https://github.com/socallmebertille/42-Net_Practice">
-    <img src="https://img.shields.io/badge/Net_Practice-000000?style=for-the-badge&logo=42&logoColor=white" alt="Net_Practice">
-  </a>
-  <a href="https://github.com/socallmebertille/42-Cub3d">
-    <img src="https://img.shields.io/badge/Cub3d-000000?style=for-the-badge&logo=42&logoColor=white" alt="Cub3d">
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td align="left" width="30%">
+      <p align="center">
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=c&logoColor=3498db" height="55"/>
+      </p>
+    </td>
+    <td align="right" width="70%">
+      <p align="center">
+        <a href="https://github.com/socallmebertille/42-Piscine_reloaded">
+          <img src="https://img.shields.io/badge/Piscine%20Reloaded-000000?style=for-the-badge&logo=42&logoColor=white" alt="Piscine Reloaded">
+        </a>
+        <a href="https://github.com/socallmebertille/42-Libft">
+          <img src="https://img.shields.io/badge/Libft-000000?style=for-the-badge&logo=42&logoColor=white" alt="Libft">
+        </a>
+        </a>
+        <a href="https://github.com/socallmebertille/42-Ft_printf">
+          <img src="https://img.shields.io/badge/Ft_printf-000000?style=for-the-badge&logo=42&logoColor=white" alt="Ft_printf">
+        </a>
+        </a>
+        <a href="https://github.com/socallmebertille/42-Get_Next_Line">
+          <img src="https://img.shields.io/badge/Get_Next_Line-000000?style=for-the-badge&logo=42&logoColor=white" alt="Get_Next_Line">
+        </a>
+        </a>
+        <a href="https://github.com/socallmebertille/42-Born2beroot">
+          <img src="https://img.shields.io/badge/Born2beroot-000000?style=for-the-badge&logo=42&logoColor=white" alt="Born2beroot">
+        </a>
+        <a href="https://github.com/socallmebertille/42-Push_swap">
+          <img src="https://img.shields.io/badge/Push_swap-000000?style=for-the-badge&logo=42&logoColor=white" alt="Push_swap">
+        </a>
+        <a href="https://github.com/socallmebertille/42-Pipex">
+          <img src="https://img.shields.io/badge/Pipex-000000?style=for-the-badge&logo=42&logoColor=white" alt="Pipex">
+        </a>
+        <a href="https://github.com/socallmebertille/42-So_Long">
+          <img src="https://img.shields.io/badge/So_Long-000000?style=for-the-badge&logo=42&logoColor=white" alt="So_Long">
+        </a>
+        <a href="https://github.com/socallmebertille/42-Philosophers">
+          <img src="https://img.shields.io/badge/Philosophers-000000?style=for-the-badge&logo=42&logoColor=white" alt="Philosophers">
+        </a>
+        <a href="https://github.com/socallmebertille/42-Minishell">
+          <img src="https://img.shields.io/badge/Minishell-000000?style=for-the-badge&logo=42&logoColor=white" alt="Minishell">
+        </a>
+        <a href="https://github.com/socallmebertille/42-Net_Practice">
+          <img src="https://img.shields.io/badge/Net_Practice-000000?style=for-the-badge&logo=42&logoColor=white" alt="Net_Practice">
+        </a>
+        <a href="https://github.com/socallmebertille/42-Cub3d">
+          <img src="https://img.shields.io/badge/Cub3d-000000?style=for-the-badge&logo=42&logoColor=white" alt="Cub3d">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="30%">
+      <p align="center">
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=cplusplus&logoColor=3498db" height="55"/>
+      </p>
+    </td>
+    <td align="right" width="70%">
+      <p align="center">
+        <a href="https://github.com/socallmebertille/42-Modules_CPP">
+          <img src="https://img.shields.io/badge/Modules_CPP-000000?style=for-the-badge&logo=42&logoColor=white" alt="Modules_CPP">
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="left" width="30%">
+      <p align="center">
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=docker&logoColor=3498db" height="55"/>
+      </p>
+    </td>
+    <td align="right" width="70%">
+      <p align="center">
+        <a href="https://github.com/socallmebertille/42-Modules_CPP">
+          <img src="https://img.shields.io/badge/Inception-000000?style=for-the-badge&logo=42&logoColor=white" alt="Modules_CPP">
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
