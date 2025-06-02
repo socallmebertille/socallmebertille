@@ -168,7 +168,7 @@
 <table width="100%">
   <tr>
     <td align="left" width="50%">
-      <p align="left"><img src="https://img.shields.io/badge/-2D%20Game%20Dev%20&%20Web%20Development-f39c12?style=for-the-badge&logo=javascript&logoColor=white" height="25"/></p>
+      <p align="left"><img src="https://img.shields.io/badge/-2D%20Game%20Dev%20&%20Web%20Development-3498db?style=for-the-badge&logo=javascript&logoColor=white" height="25"/></p>
     </td>
     <td align="right" width="50%">
       <p align="center"><img src="https://skillicons.dev/icons?i=atom,js,html,css" alt="Web Technologies" width="200" height="25"/></p>
@@ -176,7 +176,7 @@
   </tr>
   <tr>
     <td align="left" width="50%">
-      <p align="left"><img src="https://img.shields.io/badge/-Algorithms-3498db?style=for-the-badge&logo=python&logoColor=white" height="25"/></p>
+      <p align="left"><img src="https://img.shields.io/badge/-Algorithms-f39c12?style=for-the-badge&logo=python&logoColor=white" height="25"/></p>
     </td>
     <td align="right" width="50%">
       <p align="center"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="25"/></p>
