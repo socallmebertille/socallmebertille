@@ -148,24 +148,12 @@
   <tr>
     <td align="left" width="50%">
       <p align="left">
-        <img src="https://img.shields.io/badge/-Have%20learned-f39c12?style=for-the-badge&logo=c&logoColor=white" height="25"/>
+        <img src="https://img.shields.io/badge/-Tech%20Stack-f39c12?style=for-the-badge&logo=ticktick&logoColor=white" height="25"/>
       </p>
     </td>
     <td align="right" width="50%">
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=c" width="50" height="25"/>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="50%">
-      <p align="left">
-        <img src="https://img.shields.io/badge/-Currently%20learning-3498db?style=for-the-badge&logo=cplusplus&logoColor=white" height="25"/>
-      </p>
-    </td>
-    <td align="right" width="50%">
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=cpp" width="50" height="25"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,docker" width="200" height="25"/>
       </p>
     </td>
   </tr>
