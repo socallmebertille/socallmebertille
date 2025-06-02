@@ -106,29 +106,6 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/Demonstration%20projects-000000?style=for-the-badge&logo=youtube&logoColor=3498db" height="55"/>
-</p>
-
-<p align="center">
-  <a href="https://youtu.be/XLiG6d9VJvI?si=CMYbCpsLkb29LYys">
-    <img src="https://img.shields.io/badge/Watch_my_So_Long_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my So_Long on YouTube">
-  </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://youtu.be/F2-tP8NMRDc?si=Schpeiqpf7ek2NFS">
-    <img src="https://img.shields.io/badge/Watch_my_Cub3d_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my Cub3d on YouTube">
-  </a>
-</p>
-
-
-<p align="center">
-  <img src="img/so_long_bonus.gif" alt="So_Long Demo" width="400">
-  &nbsp;
-  <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400">
-</p>
-
----
-
-<p>
   <img src="https://img.shields.io/badge/My%20actual%20situation-000000?style=for-the-badge&logo=gitbook&logoColor=3498db" height="55"/>
 </p>
 
@@ -183,6 +160,29 @@
     </td>
   </tr>
 </table>
+
+---
+
+<p>
+  <img src="https://img.shields.io/badge/Demonstration%20projects-000000?style=for-the-badge&logo=youtube&logoColor=3498db" height="55"/>
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/XLiG6d9VJvI?si=CMYbCpsLkb29LYys">
+    <img src="https://img.shields.io/badge/Watch_my_So_Long_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my So_Long on YouTube">
+  </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/F2-tP8NMRDc?si=Schpeiqpf7ek2NFS">
+    <img src="https://img.shields.io/badge/Watch_my_Cub3d_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my Cub3d on YouTube">
+  </a>
+</p>
+
+
+<p align="center">
+  <img src="img/so_long_bonus.gif" alt="So_Long Demo" width="400">
+  &nbsp;
+  <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400">
+</p>
 
 ---
 
