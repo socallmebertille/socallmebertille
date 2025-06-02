@@ -81,6 +81,9 @@
         <a href="https://github.com/socallmebertille/42-Modules_CPP">
           <img src="https://img.shields.io/badge/Modules_CPP-000000?style=for-the-badge&logo=42&logoColor=white" alt="Modules_CPP">
         </a>
+        <a href="https://github.com/socallmebertille/42-IRC">
+          <img src="https://img.shields.io/badge/IRC-000000?style=for-the-badge&logo=42&logoColor=white" alt="IRC">
+        </a>
       </p>
     </td>
   </tr>
