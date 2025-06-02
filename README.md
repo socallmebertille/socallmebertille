@@ -95,8 +95,8 @@
     </td>
     <td align="right" width="70%">
       <p align="center">
-        <a href="https://github.com/socallmebertille/42-Modules_CPP">
-          <img src="https://img.shields.io/badge/Inception-000000?style=for-the-badge&logo=42&logoColor=white" alt="Modules_CPP">
+        <a href="https://github.com/socallmebertille/42-Inception">
+          <img src="https://img.shields.io/badge/Inception-000000?style=for-the-badge&logo=42&logoColor=white" alt="Inception">
         </a>
       </p>
     </td>
