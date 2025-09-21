@@ -101,6 +101,19 @@
       </p>
     </td>
   </tr>
+    <td align="left" width="30%">
+      <p align="center">
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=typescript&logoColor=3498db" height="55"/>
+      </p>
+    </td>
+    <td align="right" width="70%">
+      <p align="center">
+        <a href="https://github.com/socallmebertille/42-Ft_Transcendence">
+          <img src="https://img.shields.io/badge/Ft_Transcendence-000000?style=for-the-badge&logo=42&logoColor=white" alt="Ft_Transcendence">
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
