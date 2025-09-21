@@ -114,6 +114,20 @@
       </p>
     </td>
   </tr>
+  </tr>
+    <td align="left" width="30%">
+      <p align="center">
+        <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=python&logoColor=3498db" height="55"/>
+      </p>
+    </td>
+    <td align="right" width="70%">
+      <p align="center">
+        <a href="https://github.com/socallmebertille/42-DSLR">
+          <img src="https://img.shields.io/badge/DSLR-000000?style=for-the-badge&logo=42&logoColor=white" alt="DSLR">
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
