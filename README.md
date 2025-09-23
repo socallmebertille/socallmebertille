@@ -122,7 +122,7 @@
     </td>
     <td align="right" width="70%">
       <p align="center">
-        <a href="https://github.com/socallmebertille/42-DSLR">
+        <a href="https://github.com/SenoIsma/Data-Science-Logistic-Regression/tree/sarah">
           <img src="https://img.shields.io/badge/DSLR-000000?style=for-the-badge&logo=42&logoColor=white" alt="DSLR">
         </a>
       </p>
