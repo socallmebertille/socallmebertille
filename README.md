@@ -209,6 +209,17 @@
 
 
 <p align="center">
+  <img src="img/transcendence.gif" alt="Transcendence Demo" width="400">
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BmifBTsAL2Q">
+    <img src="https://img.shields.io/badge/Watch_my_Transcendence_on_YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch my Transcendence on YouTube">
+  </a>
+</p>
+
+
+<p align="center">
   <img src="img/so_long_bonus.gif" alt="So_Long Demo" width="400">
   &nbsp;
   <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400">
