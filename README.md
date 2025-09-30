@@ -207,9 +207,10 @@
   </a>
 </p>
 
-
 <p align="center">
-  <img src="img/transcendence.gif" alt="Transcendence Demo" width="400">
+  <img src="img/so_long_bonus.gif" alt="So_Long Demo" width="400">
+  &nbsp;
+  <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400">
 </p>
 
 <p align="center">
@@ -218,11 +219,8 @@
   </a>
 </p>
 
-
 <p align="center">
-  <img src="img/so_long_bonus.gif" alt="So_Long Demo" width="400">
-  &nbsp;
-  <img src="img/cub3d_bonus.gif" alt="Cub3d Demo" width="400">
+  <img src="img/transcendence.gif" alt="Transcendence Demo" width="400">
 </p>
 
 ---
