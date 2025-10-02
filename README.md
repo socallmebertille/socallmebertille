@@ -160,7 +160,7 @@
     </td>
     <td align="right" width="50%">
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=c,cpp,docker" width="200" height="25"/>
+        <img src="https://skillicons.dev/icons?i=c,cpp,docker,typescript" width="200" height="25"/>
       </p>
     </td>
   </tr>
