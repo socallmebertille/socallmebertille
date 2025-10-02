@@ -136,14 +136,14 @@
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/My%20actual%20situation-000000?style=for-the-badge&logo=gitbook&logoColor=3498db" height="55"/>
+  <img src="https://img.shields.io/badge/My%20actual%20situation%20at%2042%20Paris%20School-000000?style=for-the-badge&logo=gitbook&logoColor=3498db" height="55"/>
 </p>
 
 <table width="100%">
   <tr>
     <td align="left" width="50%">
       <p align="left">
-        <img src="https://img.shields.io/badge/-Student%20at%2042%20Paris%20School-3498db?style=for-the-badge&logo=42&logoColor=white" height="25"/>
+        <img src="https://img.shields.io/badge/-Tech%20Tools-3498db?style=for-the-badge&logo=42&logoColor=white" height="25"/>
       </p>
     </td>
     <td align="right" width="50%">
@@ -155,7 +155,7 @@
   <tr>
     <td align="left" width="50%">
       <p align="left">
-        <img src="https://img.shields.io/badge/-Tech%20Stack-f39c12?style=for-the-badge&logo=ticktick&logoColor=white" height="25"/>
+        <img src="https://img.shields.io/badge/-Tech%20Languages-f39c12?style=for-the-badge&logo=ticktick&logoColor=white" height="25"/>
       </p>
     </td>
     <td align="right" width="50%">
