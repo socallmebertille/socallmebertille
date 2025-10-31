@@ -67,6 +67,9 @@
         <a href="https://github.com/socallmebertille/42-Cub3d">
           <img src="https://img.shields.io/badge/Cub3d-000000?style=for-the-badge&logo=42&logoColor=white" alt="Cub3d">
         </a>
+        <a href="https://github.com/socallmebertille/42-Piscine_Embedded">
+          <img src="https://img.shields.io/badge/Piscine_Embedded-000000?style=for-the-badge&logo=42&logoColor=white" alt="Cub3d">
+        </a>
       </p>
     </td>
   </tr>
