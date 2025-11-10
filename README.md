@@ -125,6 +125,9 @@
     </td>
     <td align="right" width="70%">
       <p align="center">
+        <a href="https://github.com/socallmebertille/Deminor">
+          <img src="https://img.shields.io/badge/Deminor-000000?style=for-the-badge&logo=unpkg&logoColor=white" alt="Deminor">
+        </a>
         <a href="https://github.com/socallmebertille/42-Ft_Linear_Regression">
           <img src="https://img.shields.io/badge/Ft_Linear_Regression-000000?style=for-the-badge&logo=42&logoColor=white" alt="Ft_Linear_Regression">
         </a>
