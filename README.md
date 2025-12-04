@@ -134,6 +134,9 @@
         <a href="https://github.com/SenoIsma/Data-Science-Logistic-Regression/tree/sarah">
           <img src="https://img.shields.io/badge/DSLR-000000?style=for-the-badge&logo=42&logoColor=white" alt="DSLR">
         </a>
+        <a href="https://github.com/socallmebertille/Hackaton-CraftAI">
+          <img src="https://img.shields.io/badge/Hackatlon-CraftAI-000000?style=for-the-badge&logo=42&logoColor=white" alt="Hackatlon-CraftAI">
+        </a>
         <a href="https://github.com/socallmebertille/42-Bootcamp_AI">
           <img src="https://img.shields.io/badge/Bootcamp_AI-000000?style=for-the-badge&logo=42&logoColor=white" alt="Bootcamp_AI">
         </a>
