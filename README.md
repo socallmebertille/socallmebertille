@@ -140,6 +140,9 @@
         <a href="https://github.com/socallmebertille/42-Bootcamp_AI">
           <img src="https://img.shields.io/badge/Bootcamp_AI-000000?style=for-the-badge&logo=42&logoColor=white" alt="Bootcamp_AI">
         </a>
+        <a href="https://github.com/socallmebertille/42-Multilayer_Perceptron">
+          <img src="https://img.shields.io/badge/Multilayer_Perceptron-000000?style=for-the-badge&logo=42&logoColor=white" alt="Multilayer_Perceptron">
+        </a>
       </p>
     </td>
   </tr>
