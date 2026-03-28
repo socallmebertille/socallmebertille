@@ -143,6 +143,9 @@
         <a href="https://github.com/socallmebertille/42-Multilayer_Perceptron">
           <img src="https://img.shields.io/badge/Multilayer_Perceptron-000000?style=for-the-badge&logo=42&logoColor=white" alt="Multilayer_Perceptron">
         </a>
+        <a href="https://github.com/socallmebertille/42-Learn2Slither">
+          <img src="https://img.shields.io/badge/Learn2Slither-000000?style=for-the-badge&logo=42&logoColor=white" alt="Learn2Slither">
+        </a>
       </p>
     </td>
   </tr>
