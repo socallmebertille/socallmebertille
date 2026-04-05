@@ -2,7 +2,7 @@
   <img src="metrics.general.svg" width="49%"/>
   <img src="metrics.calendar.svg" width="49%"/>
   <img src="metrics.languages.svg" width="49%"/>
-  <img src="metrics.followup.svg" width="49%"/>
+  <!-- <img src="metrics.followup.svg" width="49%"/> -->
 </div>
 
 ---
