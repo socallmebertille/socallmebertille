@@ -248,8 +248,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=socallmebertille&show_icons=true&theme=cobalt2" alt="Statistiques GitHub de Sarah" height="180em">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=socallmebertille&theme=cobalt2&layout=compact" alt="Langues les plus utilisées" height="180em">
+  <img src="metrics.general.svg" width="49%"/>
+  <img src="metrics.calendar.svg" width="49%"/>
+</p>
+
+<p align="center">
+  <img src="metrics.habits.svg" width="70%"/>
 </p>
 
