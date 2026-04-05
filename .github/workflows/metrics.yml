@@ -16,7 +16,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.general.svg
           base: header, activity, community, repositories
-          plugin_languages: yes
+          plugin_languages: no
           plugin_languages_ignored: html, css
           plugin_lines: yes
           config_timezone: Europe/Paris
