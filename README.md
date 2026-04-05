@@ -249,6 +249,12 @@
 
 ---
 
+<p align="center">
+  <img src="metrics.repositories.svg" width="100%"/>
+</p>
+
+---
+
 <p>
   <img src="https://img.shields.io/badge/GitHub%20statistics-000000?style=for-the-badge&logo=alwaysdata&logoColor=3498db" height="55"/>
 </p>
