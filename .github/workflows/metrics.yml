@@ -32,15 +32,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.repositories.svg
-          base: ""
-          plugin_repositories: yes
-          plugin_repositories_pinned: 6
-          plugin_repositories_starred: 0
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.languages.svg
           base: ""
           plugin_languages: yes
@@ -52,19 +43,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.achievements.svg
+          filename: metrics.followup.svg
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_achievements_display: compact
-
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.activity.svg
-          base: ""
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: push,issue,pr
-          config_timezone: Europe/Paris
+          plugin_followup: yes
+          plugin_followup_sections: repositories
