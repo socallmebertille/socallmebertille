@@ -10,7 +10,7 @@
 ### `> Systems & Graphics`
 
 ![C](https://img.shields.io/badge/-000000?style=flat&logo=c&logoColor=3498db)
-[![Piscine Reloaded](https://img.shields.io/badge/Piscine_Reloaded-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Piscine_reloaded)
+[![Reloaded_Pool](https://img.shields.io/badge/Reloaded_Pool-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Reloaded_Pool)
 [![Libft](https://img.shields.io/badge/Libft-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Libft)
 [![Ft_printf](https://img.shields.io/badge/Ft_printf-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Ft_printf)
 [![Get_Next_Line](https://img.shields.io/badge/Get_Next_Line-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Get_Next_Line)
@@ -22,7 +22,7 @@
 [![Minishell](https://img.shields.io/badge/Minishell-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Minishell)
 [![Net_Practice](https://img.shields.io/badge/Net_Practice-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Net_Practice)
 [![Cub3d](https://img.shields.io/badge/Cub3d-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Cub3d)
-[![Piscine_Embedded](https://img.shields.io/badge/Piscine_Embedded-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Piscine_Embedded)
+[![Embedded_Pool](https://img.shields.io/badge/Embedded_Pool-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Embedded_Pool)
 
 ![C++](https://img.shields.io/badge/-0a0a0a?style=flat-square&logo=cplusplus&logoColor=3498db)
 [![Modules_CPP](https://img.shields.io/badge/Modules_CPP-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Modules_CPP)
