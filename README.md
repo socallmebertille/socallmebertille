@@ -9,7 +9,7 @@
 
 <details>
 <summary>
-  <img src="img/project_summary.svg" width="49%"/>
+  <img src="img/project_summary.svg" width="20%"/>
 </summary>
 
 ### `> Systems & Graphics`
