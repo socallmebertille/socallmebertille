@@ -9,7 +9,7 @@
 
 <details>
 <summary>
-  <img src="https://img.shields.io/badge/Explore%20My%20Projects-0a0a0a?style=for-the-badge&logo=github&logoColor=blue"/>
+  <img src="img/project_summary.svg" width="49%"/>
 </summary>
 
 ### `> Systems & Graphics`
