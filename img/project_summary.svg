@@ -1,0 +1,12 @@
+<svg width="100%" height="80" viewBox="0 0 600 80" xmlns="http://www.w3.org/2000/svg">
+  <text x="300" y="40"
+        text-anchor="middle"
+        dominant-baseline="middle"
+        fill="#0969da"
+        font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif"
+        font-size="26"
+        font-weight="600"
+        letter-spacing="0.5">
+    Project Summary
+  </text>
+</svg>
