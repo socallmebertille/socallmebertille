@@ -7,8 +7,12 @@
 
 ---
 
-### `> Systems & Graphics`
+<details>
+<summary>
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-0a0a0a?style=for-the-badge&logo=github&logoColor=blue"/>
+</summary>
 
+### `> Systems & Graphics`
 ![C](https://img.shields.io/badge/-000000?style=flat&logo=c&logoColor=3498db)
 [![Reloaded_Pool](https://img.shields.io/badge/Reloaded_Pool-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Reloaded_Pool)
 [![Libft](https://img.shields.io/badge/Libft-111?style=flat-square&logo=42&logoColor=white)](https://github.com/socallmebertille/42-Libft)
@@ -80,3 +84,5 @@
     </td>
   </tr>
 </table>
+
+</details>
