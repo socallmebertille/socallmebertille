@@ -18,6 +18,7 @@ jobs:
           base: header, activity, community, repositories
           plugin_languages: no
           plugin_lines: yes
+          plugin_lines_sections: repositories
           config_timezone: Europe/Paris
 
       - uses: lowlighter/metrics@latest
