@@ -11,14 +11,13 @@ jobs:
       contents: write
     steps:
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.general.svg
           base: header, activity, community, repositories
           plugin_languages: no
           plugin_lines: yes
-          plugin_lines_sections: repositories
           config_timezone: Europe/Paris
 
       - uses: lowlighter/metrics@latest
