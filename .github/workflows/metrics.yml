@@ -1,27 +1,30 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 2 * * *"}]
+  schedule:
+    - cron: "0 2 * * *"
   workflow_dispatch:
-  push: {branches: ["main"]}
+  push:
+    branches: ["main"]
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    steps:
 
+    steps:
       - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.general.svg
           base: header, activity, community, repositories
           plugin_languages: no
-          plugin_lines: yes
-          plugin_lines_sections: base,repositories,history
+          plugin_lines: no
           config_timezone: Europe/Paris
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.calendar.svg
@@ -29,7 +32,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.languages.svg
@@ -40,7 +43,7 @@ jobs:
           plugin_languages_limit: 8
           config_timezone: Europe/Paris
 
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.followup.svg
