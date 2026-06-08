@@ -18,6 +18,7 @@ jobs:
           plugin_languages: no
           plugin_languages_ignored: html, css
           plugin_lines: yes
+          plugin_lines_sections: base
           config_timezone: Europe/Paris
       
       - uses: lowlighter/metrics@latest
