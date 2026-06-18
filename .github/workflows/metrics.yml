@@ -13,13 +13,17 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.general.svg
-          base: header, activity, repositories
+          base: header, activity, community, repositories
           plugin_languages: no
           plugin_languages_ignored: html, css
           config_timezone: Europe/Paris
-          extras_css: |
-            .items-wrapper > section.largeable.largeable-inline-flex > div.row > section > div.row > section:first-of-type {
-              display: none;
+          extras_js: |
+            const h2s = [...document.querySelectorAll('h2')];
+            const repoH2 = h2s.find(h => h.textContent.includes('Repositories'));
+            if (repoH2) {
+              const row = repoH2.closest('section').querySelector('div.row');
+              const target = row.querySelector('section:first-of-type');
+              if (target) target.remove();
             }
       - uses: lowlighter/metrics@latest
         with:
