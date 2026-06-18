@@ -21,10 +21,23 @@ jobs:
             const h2s = [...document.querySelectorAll('h2')];
             const repoH2 = h2s.find(h => h.textContent.includes('Repositories'));
             if (repoH2) {
-              const row = repoH2.closest('section').querySelector('div.row');
-              const target = row.querySelector('section:first-of-type');
+              const innerSection = repoH2.closest('section:not(.largeable)');
+              const innerRow = innerSection.querySelector('div.row');
+              const target = innerRow.querySelector(':scope > section:first-of-type');
               if (target) target.remove();
+              innerRow.style.setProperty('display', 'block', 'important');
+              const sponsorSection = innerRow.querySelector(':scope > section');
+              if (sponsorSection) {
+                sponsorSection.style.setProperty('width', '100%', 'important');
+                sponsorSection.style.setProperty('display', 'block', 'important');
+              }
             }
+            const wrapper = document.querySelector('div.items-wrapper');
+            const largeables = [...wrapper.querySelectorAll(':scope > section.largeable')];
+            const activityRow = largeables[0].querySelector(':scope > div.row');
+            const reposInnerSection = largeables[1].querySelector(':scope > div.row > section');
+            activityRow.appendChild(reposInnerSection);
+            largeables[1].remove();
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
