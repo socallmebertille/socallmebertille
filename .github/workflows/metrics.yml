@@ -13,10 +13,14 @@ jobs:
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           filename: metrics.general.svg
-          base: header, activity, community, repositories
+          base: header, activity, repositories
           plugin_languages: no
           plugin_languages_ignored: html, css
           config_timezone: Europe/Paris
+          extras_css: |
+            .items-wrapper > section.largeable.largeable-inline-flex > div.row > section > div.row > section:first-of-type {
+              display: none;
+            }
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
@@ -27,10 +31,3 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           config_timezone: Europe/Paris
-      - uses: lowlighter/metrics@latest
-        with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          filename: metrics.followup.svg
-          base: ""
-          plugin_followup: yes
-          plugin_followup_sections: repositories
